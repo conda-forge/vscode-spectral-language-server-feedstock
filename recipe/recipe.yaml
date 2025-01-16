@@ -1,5 +1,5 @@
 context:
-  version: 1.1.2
+  version: "1.1.4"
 
 package:
   name: vscode-spectral-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/stoplightio/vscode-spectral/archive/v${{ version }}.tar.gz
-  sha256: ec3a391dfa09569229936aec995081b4a4d94c42e34ac9b5ed9910c352d1260d
+  sha256: cf8e70f89071ac81b8654d7951239dc4ee6b8438bab3ab45df9bbe5dc0f796dc
 
 build:
   number: 0
